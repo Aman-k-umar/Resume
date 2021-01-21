@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(30, 30, 167);
+}
+hr{
+    border-width: 10px;
+    border-style: dotted none none none ;
+    width: 10%;
+    height:0,0,0,0;
+    color: blanchedalmond; 
+}
+img{
+    height:150px;
+    border-radius: 50%;
+}
+h1{
+    color:#66BFBF;
+}
+h3{
+    color:#66BFBF;
+}
